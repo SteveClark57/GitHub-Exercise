@@ -15,12 +15,12 @@ struct ContentView: View {
                 .scaledToFit()
 
 
-            Text("Version 1.0")
+            Text("Version 1.1")
                 .font(.largeTitle)
                 .fontWeight(.black)
         }
         .padding()
-        .foregroundColor(.red)
+        .foregroundColor(.mint)
     }
 }
 
